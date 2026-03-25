@@ -8,7 +8,4 @@ def get_user(user_id):
 def divide(a, b):
     return a / b  # b=0 hoga toh crash!
 
-print("buggy code")
-API_KEY = "sk-1234567890abcdef"  # hardcoded secret
-another bug
-another bug last final
+SECRET_KEY="FNKNDFDFDF"
