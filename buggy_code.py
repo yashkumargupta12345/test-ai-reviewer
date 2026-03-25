@@ -9,4 +9,5 @@ def divide(a, b):
     return a / b  # b=0 hoga toh crash!
 
 
-server restart kar diya ab toh wapas se
+
+secretkey=deployment check kar rahe hai
