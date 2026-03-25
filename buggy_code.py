@@ -9,5 +9,5 @@ def divide(a, b):
     return a / b  # b=0 hoga toh crash!
 
 print("buggy code")
-API_KEY = "sk-1234567890abcdef"  # hardcoded secret
-this is final buggy code
+API_KEY = "sk-1234567890abcdef"  # hardcoded secrett
+this is the ladst finenal buggjndngn neess
