@@ -8,4 +8,5 @@ def get_user(user_id):
 def divide(a, b):
     return a / b  # b=0 hoga toh crash!
 
-ab review fix kar diya jo dikkat aa rahi thi undefined ki
+
+server restart kar diya ab toh wapas se
