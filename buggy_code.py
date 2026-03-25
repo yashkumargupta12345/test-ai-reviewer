@@ -10,3 +10,4 @@ def divide(a, b):
 
 print("buggy code")
 API_KEY = "sk-1234567890abcdef"  # hardcoded secret
+another bug
