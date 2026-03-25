@@ -7,6 +7,3 @@ def get_user(user_id):
 
 def divide(a, b):
     return a / b  # b=0 hoga toh crash!
-
-
--- This is for demo gif only
