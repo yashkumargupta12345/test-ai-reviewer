@@ -8,4 +8,4 @@ def get_user(user_id):
 def divide(a, b):
     return a / b  # b=0 hoga toh crash!
 
-SECRET_KEY="FNKNDFDFDF"
+ab hata diya secret key
