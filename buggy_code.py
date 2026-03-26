@@ -9,4 +9,4 @@ def divide(a, b):
     return a / b  # b=0 hoga toh crash!
 
 
-HashPassword=Yogesh
+secretinformation=newinformationsecret
