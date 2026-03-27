@@ -9,4 +9,6 @@ def divide(a, b):
     return a / b  # b=0 hoga toh crash!
 
 
-SecretInformationadd=sdsfjdfiodfdlfd1121
+SecretInformationadd=sdsfjdfiodfdlfd1121st
+language detection ke liye test
+secretinfo=deploymentkebaadtesting 
