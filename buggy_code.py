@@ -9,4 +9,4 @@ def divide(a, b):
     return a / b  # b=0 hoga toh crash!
 
 
-github se clone karke fir se test kar rahe hai
+pichli baar kaam nahi kiya fir se test karte hai
